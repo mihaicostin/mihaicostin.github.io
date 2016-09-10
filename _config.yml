@@ -1,0 +1,4 @@
+name: CylonBytes
+markdown: redcarpet
+highlighter: true
+permalink: pretty
