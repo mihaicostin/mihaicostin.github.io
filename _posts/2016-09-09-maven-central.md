@@ -12,7 +12,7 @@ Initially, I’ve opted for [jitpack](https://jitpack.io/) to make the jar avail
 Kudos to jitpack, by the way, for making that so easy.
 However, that extra repository in my other project was nagging me
 
-```
+```xml
 <repository>
     <id>jitpack.io</id>
     <url>https://jitpack.io</url>
@@ -56,7 +56,7 @@ You can read more about it [here](http://central.sonatype.org/pages/working-with
 
 Here’s how my local settings.xml file looks like:
 
-```
+```xml
 <localRepository/>
 <interactiveMode/>
 <usePluginRegistry/>
@@ -93,7 +93,7 @@ and enjoy the text scrolling in your console.
 
 <!--[TODO]-->
 
-<!--Log in to https://oss.sonatype.org  (and login! )-->
+<!--Log in to https://oss.sonatype.org -->
 
 <!--Go to staging repositories -->
 
