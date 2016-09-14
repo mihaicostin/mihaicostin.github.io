@@ -90,16 +90,17 @@ If you’re using a release profile, like I did, you can now issue the command
 and enjoy the text scrolling in your console. 
 
 
+If you have the autoReleaseAfterClose flag set to false (like I do), you will also need to do a manual release of your artifacts. 
+This means:
 
-<!--[TODO]-->
+- Log in to https://oss.sonatype.org
+- Go to staging repositories 
 
-<!--Log in to https://oss.sonatype.org -->
+![Staging repositories menu](/images/2016-09-09-maven/sonatype-staging.png) 
 
-<!--Go to staging repositories -->
+- Search for your repository 
+- Release
 
-<!--Search for your repository-->
+![Release](/images/2016-09-09-maven/sonatype-release.png)
 
-<!--Release -->
-
-<!--And you’re done-->
-
+and you're done.
