@@ -93,7 +93,7 @@ and enjoy the text scrolling in your console.
 If you have the autoReleaseAfterClose flag set to false (like I do), you will also need to do a manual release of your artifacts. 
 This means:
 
-- Log in to https://oss.sonatype.org
+- Log in to [https://oss.sonatype.org](https://oss.sonatype.org)
 - Go to staging repositories 
 
 ![Staging repositories menu](/images/2016-09-09-maven/sonatype-staging.png) 
