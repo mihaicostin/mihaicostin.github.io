@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chalkboard';
+    src: url('chalkboard.woff') format('woff'),
+         url('chalkboard.ttf') format('truetype'),
+         url('chalkboard.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
